@@ -1,1 +1,0 @@
-# AtiTermicERP_Archivos
