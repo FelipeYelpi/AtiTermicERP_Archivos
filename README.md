@@ -5,6 +5,7 @@
 Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 
 | Programa | Versión mínima | Para qué sirve | Descarga |
+
 | **Node.js** | v18 o superior | Ejecutar el backend (servidor) | https://nodejs.org |
 | **XAMPP** | Cualquier versión reciente | Proporciona el servidor MySQL | https://www.apachefriends.org |
 | **VS Code** | Cualquier versión | Editor de código | https://code.visualstudio.com |
